@@ -1,0 +1,16 @@
+.ad1 {
+    width: 100%;
+    height: 170px;
+}
+
+.ad2 {
+    width: 50%;
+    height: 100px;
+
+}
+
+.Row {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}

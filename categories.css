@@ -1,0 +1,14 @@
+.items-in-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 8px;
+}
+
+.images {
+    width: 100px;
+    height: 100px;
+}
+
+.para {
+    width: 85px;
+}

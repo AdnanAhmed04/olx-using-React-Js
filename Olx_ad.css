@@ -1,0 +1,52 @@
+.olx-main-div {
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(247, 247, 247);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+
+.vertical-line {
+    border-left: 2px solid rgb(171, 171, 171);
+    /* Adjust thickness and color as needed */
+    margin-top: 25px;
+    height: 150px;
+    /* Adjust height as needed */
+}
+
+.div1 {
+    width: 350px;
+    font-size: x-large;
+    margin-top: 35px;
+}
+
+.div1 p {
+    font-size: large;
+
+}
+
+
+.div2 {
+    margin-top: 35px;
+    margin-bottom: 0px;
+
+}
+
+.div3 {
+    margin-top: -25px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-img {
+    width: 120px;
+    height: 100px;
+}
+
+.logo-div {
+    /* display: flex;
+    justify-content: space-evenly; */
+    width: 30px;
+    margin: 2px;
+}

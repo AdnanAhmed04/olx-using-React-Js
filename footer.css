@@ -1,0 +1,44 @@
+li {
+    list-style-type: none;
+
+
+}
+
+.list-in-row {
+    display: flex;
+    justify-content: center;
+}
+
+.applebtn-row {
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    width: 320px;
+    margin-top: 15px;
+
+}
+
+.app-img {
+    width: 80px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+}
+
+.footer-main-div {
+    background-color: rgb(235, 233, 233);
+    width: 100%;
+}
+
+.sub-footer {
+    display: flex;
+    justify-content: right;
+    color: aliceblue;
+    border-radius: 2px;
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(18, 38, 34);
+}

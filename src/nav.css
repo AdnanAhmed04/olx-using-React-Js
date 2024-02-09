@@ -1,0 +1,101 @@
+.img1 {
+    width: 80px;
+}
+
+.row {
+    display: flex;
+    gap: 10px;
+    margin-left: 0px;
+    margin-bottom: 8px;
+    font-family: cursive;
+    font-size: small;
+}
+
+.img2 {
+    width: 80px;
+}
+
+.img3 {
+    width: 30px;
+    height: 30px;
+    padding: 8px
+}
+
+.img4 {
+    width: 30px;
+    height: 30px;
+    padding-top: 8px
+}
+
+.img5 {
+    width: 40px;
+    height: 40px;
+    padding-top: 5px
+}
+
+.inpt1 {
+    padding: 5px;
+    border-radius: 3px;
+    font-size: larger;
+    width: 240px;
+    height: 30px;
+
+}
+
+
+.inpt2 {
+    padding: 5px;
+    border-radius: 3px;
+    width: 500px;
+    height: 30px;
+    font-size: larger;
+}
+
+.downarrow {
+    font-weight: lighter;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 0px;
+    padding-left: -10;
+    gap: 0px;
+}
+
+.space {
+    display: flex;
+    justify-content: center;
+    gap: -10px;
+    padding: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 50px;
+    border-radius: 100px;
+    font-size: large;
+    background-color: transparent;
+    border: 5px solid;
+    border-left-color: rgb(255, 196, 0);
+    border-right-color: rgb(2, 125, 196);
+    border-top-color: aqua;
+    border-bottom-color: rgb(2, 125, 196);
+
+}
+
+/* .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  } */
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    width: 100%;
+}
